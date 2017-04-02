@@ -1,2 +1,2 @@
-# AzureRazorFileExplorer
-Web Server File Explorer when running IIS ASP.NET Razor Web Site on Azure
+# NancyAzureFileExplorer
+Web Server File Explorer for determining absolute site location on Azure for a Nancy ASP.NET hsted site.
